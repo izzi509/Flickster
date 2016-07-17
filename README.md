@@ -8,10 +8,10 @@ Time spent: **10** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] User can **scroll through current movies** from the Movie Database API
-* [ ] For each movie displayed, user can see the following details:
+* [*] User can **scroll through current movies** from the Movie Database API
+* [*] For each movie displayed, user can see the following details:
   * [* ] Title, Poster Image, Overview (Portrait mode)
-  * [ ] Title, Backdrop Image, Overview (Landscape mode)
+  * [*] Title, Backdrop Image, Overview (Landscape mode)
 * [ ] Layout is optimized with the [ViewHolder](http://guides.codepath.com/android/Using-an-ArrayAdapter-with-ListView#improving-performance-with-the-viewholder-pattern) pattern.
 
 The following **optional** features are implemented:
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/izzi509/Flickster/blob/master/Flicks/VideoWalkthroughFlickster.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -54,7 +54,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2016] [Delva Ysmael]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
